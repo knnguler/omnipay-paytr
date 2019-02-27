@@ -1,5 +1,5 @@
 {
-    "name": "yasinkuyu/omnipay-paytr",
+    "name": "knnguler/omnipay-paytr",
     "type": "library",
     "description": "PayTR iFrame (Bonus, World, Axess, Cardfinans, Maximum, AsyaCard, Paraf sanal pos) gateway for Omnipay payment processing library",
     "keywords": [
@@ -12,7 +12,7 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/yasinkuyu/omnipay-paytr",
+    "homepage": "https://github.com/knnguler/omnipay-paytr",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
         },
         {
             "name": "Omnipay Contributors",
-            "homepage": "https://github.com/yasinkuyu/omnipay-paytr/contributors"
+            "homepage": "https://github.com/knnguler/omnipay-paytr/contributors"
         }
     ],
     "autoload": {
@@ -30,10 +30,10 @@
         }
     },
     "require": {
-        "omnipay/common": "~2.0"
+        "omnipay/common": "3.0.1"
     },
     "require-dev": {
-        "omnipay/tests": "~2.0"
+        "omnipay/tests": "3.0.1"
     },
     "extra": {
         "branch-alias": {
